@@ -14,6 +14,6 @@ SSD网络在训练是，对数据集的文件格式要求为：
 2.根据SSD模型需要的信息，创建对应的节点，并生成`.xml`文件
 3.根据`.xml`文件名寻找对于的CT图像，并放到统一的路径`JPEGImages`下
 ## 使用方法
-1.git clone 
+1.git clone https://github.com/Towne-Luo/csv-to-xml.git
 
 2.将代码中的文件路径改为自己的文件
